@@ -1,13 +1,13 @@
 # textbook information
 
-title: My Textbook
-subtitle: Subtitle
+title: My Open Textbook
+subtitle: A Lantern Test
 
 author:
   - name: Dorinne Banks
-    affiliation: College
-  - name: Second Author
-    affiliation: University
+    affiliation: George Washington University
+  - name: null
+    affiliation: null
 
 contributor:
   - Research Assistant
