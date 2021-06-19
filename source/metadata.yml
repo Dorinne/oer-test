@@ -6,8 +6,8 @@ subtitle: A Lantern Test
 author:
   - name: Dorinne Banks
     affiliation: George Washington University
-  - name: null
-    affiliation: null
+  - name: 
+    affiliation: 
 
 contributor:
   - Research Assistant
@@ -20,9 +20,10 @@ isbn-e: something
 website: seomthing
 
 keywords:
-  - keyword
-  - keyword
-  - keyword
+  - OER
+  - Lantern
+  - publishing
+  - open textbook
 
 subjects: 
   - Subject
